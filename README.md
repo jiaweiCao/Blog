@@ -1,5 +1,5 @@
 # Blog
-💎Just Beginning，欢迎star⭐
+💎Just Beginning，欢迎star
 ## JaveScript
 [理解原型与原型链](https://github.com/jiaweiCao/Blog/issues/3)
 
