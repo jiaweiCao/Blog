@@ -1,5 +1,5 @@
-# Bloghttps://github.com/jiaweiCao/Blog/issues
 💎Just Beginning，from time to time
+
 ## JaveScript
 [理解原型与原型链](https://github.com/jiaweiCao/Blog/issues/3)
 
